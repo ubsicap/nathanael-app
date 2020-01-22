@@ -1,4 +1,4 @@
-### Version 0.51.6 (Help > Give feedback (YouTrack))
+### Version 0.51.6 (Fix Empty Workspace)
 
 #### Fix
 
